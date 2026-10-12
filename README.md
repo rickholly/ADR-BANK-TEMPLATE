@@ -5,7 +5,7 @@
 Este é um pacote GRATUITO com 5 Architecture Decision Records (ADRs) essenciais para qualquer sistema financeiro no Brasil.
 
 ### 📂 O que tem aqui?
-Dentro de `documentos/adr/` você vai encontrar:
+Dentro de `documentos/adr/` vai encontrar:
 
 1.  **Idempotência em PIX** - Como evitar pagar 2x e tomar processo
 2.  **Fila de Cobrança** - Como garantir que a cobrança não se perca
